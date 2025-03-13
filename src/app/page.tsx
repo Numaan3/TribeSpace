@@ -12,11 +12,7 @@ import WhyUs from "./_components/WhyUs";
 export default function Home() {
   return (
 <div>
-  <HeroSection/>
-  <AllInOne/>
-  <WhyUs/>
-  <FeaturesTwo/>
-  <Extracontent/>
+ no page
 
  
 </div>
